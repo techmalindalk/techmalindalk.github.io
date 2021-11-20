@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## T E C H - M A L I N D A
 
 You can use the [editor on GitHub](https://github.com/techmalindalk/techmalindalk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
